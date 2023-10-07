@@ -1,0 +1,1 @@
+here use arrow function and writeFile override with new content. appendFile does not override existing file just add new file or content
