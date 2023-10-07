@@ -6,3 +6,4 @@
 * Lesson-5 : http res, req model and status code
 * Lesson-6 : external module and package.json
 * Lesson-7 : http routing and nodemon package
+* Lesson-8 : creating node server and deploy on Heroku
