@@ -3,3 +3,6 @@
 * Lesson-2 : writeFile, appedFile, readFile, rename, unlink
 * Lesson-3 : os, path
 * Lesson-4 : create server - http
+* Lesson-5 : http res, req model and status code
+* Lesson-6 : external module and package.json
+* Lesson-7 : http routing and nodemon package
